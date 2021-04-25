@@ -1,0 +1,3 @@
+com\anil\automation\test\runners\ExtentReportRunner.class
+com\anil\automation\test\runners\LoginTestRunner.class
+com\anil\automation\test\runners\TestRunner.class
